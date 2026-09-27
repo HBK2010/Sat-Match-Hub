@@ -1,45 +1,268 @@
 {
-  "updated": "2026-09-20 01:53 UTC",
-  "total": 2,
+  "updated": "2026-09-27 16:47 UTC",
+  "total": 11,
   "matches": [
     {
-      "match": "América vs Guadalajara Canal 5 Televisa, TUDN, TUDN En Vivo, ViX Mexico, Layvtime",
+      "match": "Israel vs Ireland Republic Amazon Prime Video, RTE 2, RTE Player, DAZN Germany, DAZN Spain",
       "league": "▴",
-      "time": "23:15",
+      "time": "14:45",
       "channels": [
         {
-          "name": "Canal 5 Televisa",
+          "name": "Amazon Prime Video",
           "orbit": "SAT"
         },
         {
-          "name": "TUDN",
+          "name": "RTE 2",
           "orbit": "SAT"
         },
         {
-          "name": "TUDN En Vivo",
+          "name": "RTE Player",
           "orbit": "SAT"
         },
         {
-          "name": "ViX Mexico",
+          "name": "DAZN Germany",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "DAZN Spain",
+          "orbit": "19.2E"
+        }
+      ]
+    },
+    {
+      "match": "Germany vs Greece Amazon Prime Video, Das Erste, DAZN Spain, DAZN Switzerland, DAZN Austria",
+      "league": "▴",
+      "time": "14:45",
+      "channels": [
+        {
+          "name": "Amazon Prime Video",
           "orbit": "SAT"
         },
         {
-          "name": "Layvtime",
+          "name": "Das Erste",
+          "orbit": "SAT"
+        },
+        {
+          "name": "DAZN Spain",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "DAZN Switzerland",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "DAZN Austria",
+          "orbit": "19.2E"
+        }
+      ]
+    },
+    {
+      "match": "Norway vs Portugal Amazon Prime Video, DAZN Germany, DAZN Spain, DAZN Switzerland, DAZN Austria",
+      "league": "▴",
+      "time": "14:45",
+      "channels": [
+        {
+          "name": "Amazon Prime Video",
+          "orbit": "SAT"
+        },
+        {
+          "name": "DAZN Germany",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "DAZN Spain",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "DAZN Switzerland",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "DAZN Austria",
+          "orbit": "19.2E"
+        }
+      ]
+    },
+    {
+      "match": "Guyana vs Cayman Islands YouTube, CONCACAF GO, ViX, Guyane 1ère, Bluu",
+      "league": "▴",
+      "time": "15:00",
+      "channels": [
+        {
+          "name": "YouTube",
+          "orbit": "SAT"
+        },
+        {
+          "name": "CONCACAF GO",
+          "orbit": "SAT"
+        },
+        {
+          "name": "ViX",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Guyane 1ère",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Bluu",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Portland Timbers vs Atlanta United Apple TV, SiriusXM FC",
+      "match": "Jaguares de Córdoba vs Alianza Sporttv, Fanatiz, fuboTV, Fanatiz Canada, fubo Latino 2",
       "league": "▴",
-      "time": "22:30",
+      "time": "17:00",
       "channels": [
         {
-          "name": "Apple TV",
+          "name": "Sporttv",
           "orbit": "SAT"
         },
         {
-          "name": "SiriusXM FC",
+          "name": "Fanatiz",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Fanatiz Canada",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fubo Latino 2",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Jordan vs Syria Jordan TV Sport",
+      "league": "▴",
+      "time": "13:00",
+      "channels": [
+        {
+          "name": "Jordan TV Sport",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Bolivia vs Paraguay Movistar+, Movistar Liga de Campeones, Vamos, Fanatiz, fuboTV",
+      "league": "▴",
+      "time": "16:30",
+      "channels": [
+        {
+          "name": "Movistar+",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "Movistar Liga de Campeones",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "Vamos",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Fanatiz",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Racing United vs Montego Bay United TVJ Sports Network",
+      "league": "▴",
+      "time": "18:05",
+      "channels": [
+        {
+          "name": "TVJ Sports Network",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Pumas UNAM vs Atlético San Luis TUDN USA, Univision, TUDN.com, Univision NOW, TUDN App",
+      "league": "▴",
+      "time": "14:00",
+      "channels": [
+        {
+          "name": "TUDN USA",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Univision",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TUDN.com",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Univision NOW",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TUDN App",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Juventud vs Cerro Disney+ Premium Mexico, Disney+ Premium Norte, DIRECTV Sports Uruguay, Disney+ Premium Argentina, Disney+ Premium Brazil",
+      "league": "▴",
+      "time": "14:00",
+      "channels": [
+        {
+          "name": "Disney+ Premium Mexico",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Disney+ Premium Norte",
+          "orbit": "SAT"
+        },
+        {
+          "name": "DIRECTV Sports Uruguay",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Disney+ Premium Argentina",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Disney+ Premium Brazil",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Defensor Sporting vs Danubio Disney+ Premium Mexico, Disney+ Premium Norte, DIRECTV Sports Uruguay, Disney+ Premium Argentina, Disney+ Premium Brazil",
+      "league": "▴",
+      "time": "17:00",
+      "channels": [
+        {
+          "name": "Disney+ Premium Mexico",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Disney+ Premium Norte",
+          "orbit": "SAT"
+        },
+        {
+          "name": "DIRECTV Sports Uruguay",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Disney+ Premium Argentina",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Disney+ Premium Brazil",
           "orbit": "SAT"
         }
       ]
