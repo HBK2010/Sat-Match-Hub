@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-10 17:13 UTC",
-  "total": 40,
+  "updated": "2026-10-16 20:49 UTC",
+  "total": 45,
   "matches": [
     {
-      "match": "Querétaro vs Atlante FOX One, FOX+, ViX, Tubi",
+      "match": "Necaxa vs Atlas FOX One, FOX+, FOX Deportes",
       "league": "▴",
-      "time": "19:00",
+      "time": "21:00",
       "channels": [
         {
           "name": "FOX One",
@@ -16,22 +16,22 @@
           "orbit": "SAT"
         },
         {
-          "name": "ViX",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Tubi",
+          "name": "FOX Deportes",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Juárez vs Tijuana Azteca 7, Azteca Deportes En Vivo, FOX Mexico, FOX One, fuboTV",
+      "match": "Atlante vs Pumas UNAM Azteca 7, ESPN Mexico, Azteca Deportes En Vivo, Disney+ Premium Mexico, ViX",
       "league": "▴",
-      "time": "19:00",
+      "time": "23:00",
       "channels": [
         {
           "name": "Azteca 7",
+          "orbit": "SAT"
+        },
+        {
+          "name": "ESPN Mexico",
           "orbit": "SAT"
         },
         {
@@ -39,21 +39,71 @@
           "orbit": "SAT"
         },
         {
-          "name": "FOX Mexico",
+          "name": "Disney+ Premium Mexico",
           "orbit": "SAT"
         },
         {
-          "name": "FOX One",
-          "orbit": "SAT"
-        },
-        {
-          "name": "fuboTV",
+          "name": "ViX",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Atlas vs Guadalajara Canal 5 Televisa, TUDN, TUDN En Vivo, Layvtime, TUDN USA",
+      "match": "Tijuana vs Puebla FOX One, FOX+, TUDN USA, TUDN.com, TUDN App",
+      "league": "▴",
+      "time": "23:00",
+      "channels": [
+        {
+          "name": "FOX One",
+          "orbit": "SAT"
+        },
+        {
+          "name": "FOX+",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TUDN USA",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TUDN.com",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TUDN App",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Guadalajara vs Tigres UANL Amazon Prime Video, fuboTV, Peacock, Telemundo, Telemundo Deportes En Vivo",
+      "league": "▴",
+      "time": "19:07",
+      "channels": [
+        {
+          "name": "Amazon Prime Video",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Peacock",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Telemundo",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Telemundo Deportes En Vivo",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Toluca vs Atlético San Luis Canal 5 Televisa, TUDN, TUDN En Vivo, ViX Mexico, ViX",
       "league": "▴",
       "time": "21:00",
       "channels": [
@@ -70,17 +120,44 @@
           "orbit": "SAT"
         },
         {
-          "name": "Layvtime",
+          "name": "ViX Mexico",
           "orbit": "SAT"
         },
         {
-          "name": "TUDN USA",
+          "name": "ViX",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "América vs Monterrey Canal 5 Televisa, TUDN, TUDN En Vivo, ViX Mexico, Layvtime",
+      "match": "León vs América FOX One, FOX+, TUDN USA, Univision, TUDN.com",
+      "league": "▴",
+      "time": "21:00",
+      "channels": [
+        {
+          "name": "FOX One",
+          "orbit": "SAT"
+        },
+        {
+          "name": "FOX+",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TUDN USA",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Univision",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TUDN.com",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Cruz Azul vs Juárez Canal 5 Televisa, TUDN, TUDN En Vivo, ViX Mexico, Layvtime",
       "league": "▴",
       "time": "23:10",
       "channels": [
@@ -107,7 +184,169 @@
       ]
     },
     {
-      "match": "Real Madrid vs Villarreal Sky Sports Mexico, Sky+, izzi, ESPN+, fuboTV",
+      "match": "Manchester City vs Ipswich Town Max Mexico, fuboTV, USA Network, Telemundo, Telemundo Deportes En Vivo",
+      "league": "▴",
+      "time": "10:00",
+      "channels": [
+        {
+          "name": "Max Mexico",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "USA Network",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Telemundo",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Telemundo Deportes En Vivo",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Fulham vs Hull City TNT Sports, Max Mexico, fuboTV, Peacock, NBCSN",
+      "league": "▴",
+      "time": "10:00",
+      "channels": [
+        {
+          "name": "TNT Sports",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Max Mexico",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Peacock",
+          "orbit": "SAT"
+        },
+        {
+          "name": "NBCSN",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Brentford vs Liverpool fuboTV, Peacock, NBCSN, DAZN Canada, Disney+ Premium Caribbean",
+      "league": "▴",
+      "time": "10:00",
+      "channels": [
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Peacock",
+          "orbit": "SAT"
+        },
+        {
+          "name": "NBCSN",
+          "orbit": "SAT"
+        },
+        {
+          "name": "DAZN Canada",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "Disney+ Premium Caribbean",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Newcastle United vs Aston Villa TNT Sports, Max Mexico, NBC, fuboTV, Telemundo Deportes En Vivo",
+      "league": "▴",
+      "time": "12:30",
+      "channels": [
+        {
+          "name": "TNT Sports",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Max Mexico",
+          "orbit": "SAT"
+        },
+        {
+          "name": "NBC",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Telemundo Deportes En Vivo",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Villarreal vs Elche Sky Sports Mexico, Sky+, izzi, ESPN Deportes, ESPN+",
+      "league": "▴",
+      "time": "10:15",
+      "channels": [
+        {
+          "name": "Sky Sports Mexico",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "Sky+",
+          "orbit": "SAT"
+        },
+        {
+          "name": "izzi",
+          "orbit": "SAT"
+        },
+        {
+          "name": "ESPN Deportes",
+          "orbit": "SAT"
+        },
+        {
+          "name": "ESPN+",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Real Betis vs Barcelona Sky Sports Mexico, Sky+, izzi, ESPN Deportes, ESPN+",
+      "league": "▴",
+      "time": "12:30",
+      "channels": [
+        {
+          "name": "Sky Sports Mexico",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "Sky+",
+          "orbit": "SAT"
+        },
+        {
+          "name": "izzi",
+          "orbit": "SAT"
+        },
+        {
+          "name": "ESPN Deportes",
+          "orbit": "SAT"
+        },
+        {
+          "name": "ESPN+",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Valencia vs Athletic Club Sky Sports Mexico, Sky+, izzi, ESPN Deportes, ESPN+",
       "league": "▴",
       "time": "15:00",
       "channels": [
@@ -124,20 +363,24 @@
           "orbit": "SAT"
         },
         {
-          "name": "ESPN+",
+          "name": "ESPN Deportes",
           "orbit": "SAT"
         },
         {
-          "name": "fuboTV",
+          "name": "ESPN+",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Napoli vs Frosinone Disney+ Premium Mexico, Paramount+, Peacock, DAZN Canada, TLN",
+      "match": "Bologna vs Internazionale ESPN Mexico, Disney+ Premium Mexico, Paramount+, Peacock, DAZN Canada",
       "league": "▴",
-      "time": "14:45",
+      "time": "12:00",
       "channels": [
+        {
+          "name": "ESPN Mexico",
+          "orbit": "SAT"
+        },
         {
           "name": "Disney+ Premium Mexico",
           "orbit": "SAT"
@@ -153,17 +396,40 @@
         {
           "name": "DAZN Canada",
           "orbit": "19.2E"
+        }
+      ]
+    },
+    {
+      "match": "Roma vs Genoa ESPN Mexico, Disney+ Premium Mexico, Paramount+, fuboTV, Peacock",
+      "league": "▴",
+      "time": "14:45",
+      "channels": [
+        {
+          "name": "ESPN Mexico",
+          "orbit": "SAT"
         },
         {
-          "name": "TLN",
+          "name": "Disney+ Premium Mexico",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Paramount+",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Peacock",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Brest vs Angers SCO Tubi Mexico, FOX One, fuboTV, beIN SPORTS CONNECT, beIN SPORTS CONNECT Canada",
+      "match": "Elversberg vs Augsburg Tubi Mexico, FOX One, Peacock, DAZN Canada, fuboTV Canada",
       "league": "▴",
-      "time": "14:45",
+      "time": "9:30",
       "channels": [
         {
           "name": "Tubi Mexico",
@@ -174,21 +440,129 @@
           "orbit": "SAT"
         },
         {
-          "name": "fuboTV",
+          "name": "Peacock",
           "orbit": "SAT"
         },
         {
-          "name": "beIN SPORTS CONNECT",
-          "orbit": "7.0W"
+          "name": "DAZN Canada",
+          "orbit": "19.2E"
         },
         {
-          "name": "beIN SPORTS CONNECT Canada",
-          "orbit": "7.0W"
+          "name": "fuboTV Canada",
+          "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Lorient vs Paris FOX One, fuboTV, beIN SPORTS CONNECT, beIN SPORTS CONNECT Canada, Disney+ Premium Caribbean",
+      "match": "Union Berlin vs Borussia Dortmund FOX One, FOX+, fuboTV, Peacock, Telemundo Deportes En Vivo",
+      "league": "▴",
+      "time": "9:30",
+      "channels": [
+        {
+          "name": "FOX One",
+          "orbit": "SAT"
+        },
+        {
+          "name": "FOX+",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Peacock",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Telemundo Deportes En Vivo",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Schalke 04 vs Mainz 05 FOX One, Peacock, DAZN Canada, fuboTV Canada, OneSoccer",
+      "league": "▴",
+      "time": "9:30",
+      "channels": [
+        {
+          "name": "FOX One",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Peacock",
+          "orbit": "SAT"
+        },
+        {
+          "name": "DAZN Canada",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "fuboTV Canada",
+          "orbit": "SAT"
+        },
+        {
+          "name": "OneSoccer",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Hamburger SV vs Stuttgart FOX One, Peacock, DAZN Canada, fuboTV Canada, OneSoccer",
+      "league": "▴",
+      "time": "9:30",
+      "channels": [
+        {
+          "name": "FOX One",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Peacock",
+          "orbit": "SAT"
+        },
+        {
+          "name": "DAZN Canada",
+          "orbit": "19.2E"
+        },
+        {
+          "name": "fuboTV Canada",
+          "orbit": "SAT"
+        },
+        {
+          "name": "OneSoccer",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Bayern München vs RB Leipzig FOX One, FOX+, fuboTV, USA Network, Peacock",
+      "league": "▴",
+      "time": "12:30",
+      "channels": [
+        {
+          "name": "FOX One",
+          "orbit": "SAT"
+        },
+        {
+          "name": "FOX+",
+          "orbit": "SAT"
+        },
+        {
+          "name": "fuboTV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "USA Network",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Peacock",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Troyes vs Lens FOX One, fuboTV, beIN SPORTS CONNECT, beIN SPORTS CONNECT Canada, Disney+ Premium Caribbean",
       "league": "▴",
       "time": "14:45",
       "channels": [
@@ -215,34 +589,7 @@
       ]
     },
     {
-      "match": "Monaco vs Toulouse FOX Mexico, FOX One, fuboTV, beIN SPORTS CONNECT, beIN SPORTS CONNECT Canada",
-      "league": "▴",
-      "time": "14:45",
-      "channels": [
-        {
-          "name": "FOX Mexico",
-          "orbit": "SAT"
-        },
-        {
-          "name": "FOX One",
-          "orbit": "SAT"
-        },
-        {
-          "name": "fuboTV",
-          "orbit": "SAT"
-        },
-        {
-          "name": "beIN SPORTS CONNECT",
-          "orbit": "7.0W"
-        },
-        {
-          "name": "beIN SPORTS CONNECT Canada",
-          "orbit": "7.0W"
-        }
-      ]
-    },
-    {
-      "match": "PSG vs Le Mans TV5MONDE Amérique Latine, FOX One, FOX+, beIN SPORTS, beIN SPORTS en Español",
+      "match": "Lille vs Brest TV5MONDE Amérique Latine, FOX One, FOX+, beIN SPORTS, beIN SPORTS en Español",
       "league": "▴",
       "time": "14:45",
       "channels": [
@@ -269,137 +616,67 @@
       ]
     },
     {
-      "match": "Academico Viseu vs Estoril Sport TV2, Sport TV Multiscreen, Sport.TV África, ZAP",
+      "match": "Louletano vs Rio Ave Canal 11",
       "league": "▴",
-      "time": "15:30",
+      "time": "12:00",
       "channels": [
         {
-          "name": "Sport TV2",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Sport TV Multiscreen",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Sport.TV África",
-          "orbit": "SAT"
-        },
-        {
-          "name": "ZAP",
+          "name": "Canal 11",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Casa Pia vs Santa Clara Sport TV3, MagentaSport 2, Sport TV Multiscreen, Sport.TV África, ZAP",
+      "match": "Penafiel vs Leça Canal 11",
       "league": "▴",
-      "time": "15:30",
+      "time": "15:00",
       "channels": [
         {
-          "name": "Sport TV3",
-          "orbit": "SAT"
-        },
-        {
-          "name": "MagentaSport 2",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Sport TV Multiscreen",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Sport.TV África",
-          "orbit": "SAT"
-        },
-        {
-          "name": "ZAP",
+          "name": "Canal 11",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Austria Wien vs Sturm Graz Onefootball, Sky Sport Austria 1, MAXtv To Go, SportKlub 5 Slovenia, Arena Sport 6 Serbia",
+      "match": "Académica vs Amarante fuboTV, beIN SPORTS CONNECT, LAOLA1.TV, Como TV, Start",
       "league": "▴",
-      "time": "13:30",
+      "time": "15:15",
       "channels": [
         {
-          "name": "Onefootball",
+          "name": "fuboTV",
           "orbit": "SAT"
         },
         {
-          "name": "Sky Sport Austria 1",
-          "orbit": "19.2E"
+          "name": "beIN SPORTS CONNECT",
+          "orbit": "7.0W"
         },
         {
-          "name": "MAXtv To Go",
+          "name": "LAOLA1.TV",
           "orbit": "SAT"
         },
         {
-          "name": "SportKlub 5 Slovenia",
-          "orbit": "13.0E"
+          "name": "Como TV",
+          "orbit": "SAT"
         },
         {
-          "name": "Arena Sport 6 Serbia",
+          "name": "Start",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Genk vs Kortrijk DAZN Pro League 1, DAZN Belgium, Proximus Pickx, Sporza, DAZN Japan",
-      "league": "▴",
-      "time": "14:45",
-      "channels": [
-        {
-          "name": "DAZN Pro League 1",
-          "orbit": "19.2E"
-        },
-        {
-          "name": "DAZN Belgium",
-          "orbit": "19.2E"
-        },
-        {
-          "name": "Proximus Pickx",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Sporza",
-          "orbit": "SAT"
-        },
-        {
-          "name": "DAZN Japan",
-          "orbit": "19.2E"
-        }
-      ]
-    },
-    {
-      "match": "Zulte-Waregem vs Gent DAZN Pro League 2, DAZN Belgium, Proximus Pickx, Sporza",
-      "league": "▴",
-      "time": "14:45",
-      "channels": [
-        {
-          "name": "DAZN Pro League 2",
-          "orbit": "19.2E"
-        },
-        {
-          "name": "DAZN Belgium",
-          "orbit": "19.2E"
-        },
-        {
-          "name": "Proximus Pickx",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Sporza",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "São Paulo vs Vitória Fanatiz International, Fanatiz, Fanatiz Canada, SporTV, Premiere",
+      "match": "São Paulo vs Vasco da Gama Azteca Deportes En Vivo, Disney+ Premium Mexico, Fanatiz International, Fanatiz, Disney+ Premium Norte",
       "league": "▴",
       "time": "20:00",
       "channels": [
+        {
+          "name": "Azteca Deportes En Vivo",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Disney+ Premium Mexico",
+          "orbit": "SAT"
+        },
         {
           "name": "Fanatiz International",
           "orbit": "SAT"
@@ -409,23 +686,15 @@
           "orbit": "SAT"
         },
         {
-          "name": "Fanatiz Canada",
-          "orbit": "SAT"
-        },
-        {
-          "name": "SporTV",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Premiere",
+          "name": "Disney+ Premium Norte",
           "orbit": "SAT"
         }
       ]
     },
     {
-      "match": "Junior vs Inter Bogotá RCN Nuestra Tele, Fanatiz, fuboTV, Fanatiz Canada, fubo Latino 2",
+      "match": "Medellín vs Once Caldas RCN Nuestra Tele, Fanatiz, fuboTV, Fanatiz Canada, fubo Latino 2",
       "league": "▴",
-      "time": "19:10",
+      "time": "21:10",
       "channels": [
         {
           "name": "RCN Nuestra Tele",
@@ -450,89 +719,9 @@
       ]
     },
     {
-      "match": "JEF United vs V-Varen Nagasaki DAZN Japan, K-Ball, M Plus Live, BG Sports",
-      "league": "▴",
-      "time": "1:00",
-      "channels": [
-        {
-          "name": "DAZN Japan",
-          "orbit": "19.2E"
-        },
-        {
-          "name": "K-Ball",
-          "orbit": "SAT"
-        },
-        {
-          "name": "M Plus Live",
-          "orbit": "SAT"
-        },
-        {
-          "name": "BG Sports",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Gwangju vs Ulsan VeikkausTV, JTBC Sports, Coupang Play, M Plus Live",
-      "league": "▴",
-      "time": "1:00",
-      "channels": [
-        {
-          "name": "VeikkausTV",
-          "orbit": "SAT"
-        },
-        {
-          "name": "JTBC Sports",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Coupang Play",
-          "orbit": "SAT"
-        },
-        {
-          "name": "M Plus Live",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Erchim vs Ulaanbaatar MNB Sports",
-      "league": "▴",
-      "time": "1:00",
-      "channels": [
-        {
-          "name": "MNB Sports",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Fortuna Sittard vs Twente ESPN 2, Watch ESPN, ESPN Extra, Canal+ Netherlands",
+      "match": "Telstar vs Feyenoord ESPN2 Mexico, Disney+ Premium Mexico, ESPN+, fuboTV, ESPN App",
       "league": "▴",
       "time": "14:00",
-      "channels": [
-        {
-          "name": "ESPN 2",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Watch ESPN",
-          "orbit": "SAT"
-        },
-        {
-          "name": "ESPN Extra",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Canal+ Netherlands",
-          "orbit": "13.0E"
-        }
-      ]
-    },
-    {
-      "match": "Ajax vs NEC ESPN2 Mexico, Disney+ Premium Mexico, ESPN+, fuboTV, ESPN App",
-      "league": "▴",
-      "time": "15:00",
       "channels": [
         {
           "name": "ESPN2 Mexico",
@@ -557,12 +746,16 @@
       ]
     },
     {
-      "match": "Jagiellonia Białystok vs Górnik Zabrze Ekstraklasa TV, fuboTV, fuboTV Canada, beIN SPORTS XTRA, Fanatiz Canada",
+      "match": "Fenerbahçe vs Alanyaspor Disney+ Premium Mexico, Digiturk Play, fuboTV, beIN SPORTS CONNECT, beIN SPORTS CONNECT Canada",
       "league": "▴",
-      "time": "14:15",
+      "time": "12:00",
       "channels": [
         {
-          "name": "Ekstraklasa TV",
+          "name": "Disney+ Premium Mexico",
+          "orbit": "SAT"
+        },
+        {
+          "name": "Digiturk Play",
           "orbit": "SAT"
         },
         {
@@ -570,83 +763,26 @@
           "orbit": "SAT"
         },
         {
-          "name": "fuboTV Canada",
-          "orbit": "SAT"
-        },
-        {
-          "name": "beIN SPORTS XTRA",
+          "name": "beIN SPORTS CONNECT",
           "orbit": "7.0W"
         },
         {
-          "name": "Fanatiz Canada",
-          "orbit": "SAT"
+          "name": "beIN SPORTS CONNECT Canada",
+          "orbit": "7.0W"
         }
       ]
     },
     {
-      "match": "FCSB vs Oţelul Digi Sport 1 Romania, Digi Online, Prima Sport 1, Orange TV Go, Moja TV",
+      "match": "Minnesota United vs St. Louis City Apple TV, TSN5, SiriusXM FC",
       "league": "▴",
-      "time": "14:30",
-      "channels": [
-        {
-          "name": "Digi Sport 1 Romania",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Digi Online",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Prima Sport 1",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Orange TV Go",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Moja TV",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Olimpija vs Mura MAXtv To Go, ŠTV 1, Sportklub 5 Croatia",
-      "league": "▴",
-      "time": "14:15",
-      "channels": [
-        {
-          "name": "MAXtv To Go",
-          "orbit": "SAT"
-        },
-        {
-          "name": "ŠTV 1",
-          "orbit": "SAT"
-        },
-        {
-          "name": "Sportklub 5 Croatia",
-          "orbit": "13.0E"
-        }
-      ]
-    },
-    {
-      "match": "Chicago Fire vs New York City Apple TV",
-      "league": "▴",
-      "time": "14:30",
+      "time": "16:30",
       "channels": [
         {
           "name": "Apple TV",
           "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Atlanta United vs Cincinnati Apple TV, SiriusXM FC",
-      "league": "▴",
-      "time": "19:30",
-      "channels": [
+        },
         {
-          "name": "Apple TV",
+          "name": "TSN5",
           "orbit": "SAT"
         },
         {
@@ -656,7 +792,7 @@
       ]
     },
     {
-      "match": "Charlotte vs Dallas Apple TV",
+      "match": "New England vs Chicago Fire Apple TV",
       "league": "▴",
       "time": "19:30",
       "channels": [
@@ -667,7 +803,29 @@
       ]
     },
     {
-      "match": "Inter Miami vs DC United Apple TV, Nexgen, SiriusXM FC, SCCN",
+      "match": "New York City vs Los Angeles FC Apple TV",
+      "league": "▴",
+      "time": "19:30",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Orlando City SC vs DC United Apple TV",
+      "league": "▴",
+      "time": "19:30",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "New York RB vs Toronto FC Apple TV, TSN4, TSN5, SPOTV NOW, SPOTV Prime",
       "league": "▴",
       "time": "19:30",
       "channels": [
@@ -676,7 +834,30 @@
           "orbit": "SAT"
         },
         {
-          "name": "Nexgen",
+          "name": "TSN4",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TSN5",
+          "orbit": "SAT"
+        },
+        {
+          "name": "SPOTV NOW",
+          "orbit": "SAT"
+        },
+        {
+          "name": "SPOTV Prime",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Atlanta United vs Inter Miami Apple TV, SiriusXM FC, SCCN",
+      "league": "▴",
+      "time": "19:30",
+      "channels": [
+        {
+          "name": "Apple TV",
           "orbit": "SAT"
         },
         {
@@ -690,112 +871,12 @@
       ]
     },
     {
-      "match": "New York RB vs San Diego Apple TV",
-      "league": "▴",
-      "time": "19:30",
-      "channels": [
-        {
-          "name": "Apple TV",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Orlando City SC vs Columbus Crew Apple TV, TSN5",
-      "league": "▴",
-      "time": "19:30",
-      "channels": [
-        {
-          "name": "Apple TV",
-          "orbit": "SAT"
-        },
-        {
-          "name": "TSN5",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Philadelphia Union vs Real Salt Lake Apple TV",
-      "league": "▴",
-      "time": "19:30",
-      "channels": [
-        {
-          "name": "Apple TV",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "New England vs Seattle Sounders FC Apple TV",
-      "league": "▴",
-      "time": "19:30",
-      "channels": [
-        {
-          "name": "Apple TV",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Austin vs Nashville SC Apple TV",
+      "match": "Austin vs Vancouver Whitecaps Apple TV, SiriusXM FC",
       "league": "▴",
       "time": "20:30",
       "channels": [
         {
           "name": "Apple TV",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Minnesota United vs Houston Dynamo Apple TV",
-      "league": "▴",
-      "time": "20:30",
-      "channels": [
-        {
-          "name": "Apple TV",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Sporting KC vs Portland Timbers Apple TV",
-      "league": "▴",
-      "time": "20:30",
-      "channels": [
-        {
-          "name": "Apple TV",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Colorado Rapids vs SJ Earthquakes Apple TV",
-      "league": "▴",
-      "time": "21:30",
-      "channels": [
-        {
-          "name": "Apple TV",
-          "orbit": "SAT"
-        }
-      ]
-    },
-    {
-      "match": "Los Angeles FC vs Vancouver Whitecaps Apple TV, EA Sports FC, TSN5, SiriusXM FC",
-      "league": "▴",
-      "time": "22:30",
-      "channels": [
-        {
-          "name": "Apple TV",
-          "orbit": "SAT"
-        },
-        {
-          "name": "EA Sports FC",
-          "orbit": "SAT"
-        },
-        {
-          "name": "TSN5",
           "orbit": "SAT"
         },
         {
@@ -805,9 +886,95 @@
       ]
     },
     {
-      "match": "Wanderers vs Boston River Disney+ Premium Mexico, Disney+ Premium Norte, DIRECTV Sports Uruguay, Disney+ Premium Argentina, Disney+ Premium Brazil",
+      "match": "Houston Dynamo vs Dallas Apple TV",
       "league": "▴",
-      "time": "14:00",
+      "time": "20:30",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Sporting KC vs Real Salt Lake Apple TV",
+      "league": "▴",
+      "time": "20:30",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "LA Galaxy vs San Diego Apple TV",
+      "league": "▴",
+      "time": "22:30",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Portland Timbers vs Colorado Rapids Apple TV",
+      "league": "▴",
+      "time": "22:30",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "SJ Earthquakes vs Nashville SC Apple TV, SiriusXM FC",
+      "league": "▴",
+      "time": "22:30",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "SiriusXM FC",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Seattle Sounders FC vs CF Montréal Apple TV, TSN4, TSN5, RDS, RDS App",
+      "league": "▴",
+      "time": "22:30",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TSN4",
+          "orbit": "SAT"
+        },
+        {
+          "name": "TSN5",
+          "orbit": "SAT"
+        },
+        {
+          "name": "RDS",
+          "orbit": "SAT"
+        },
+        {
+          "name": "RDS App",
+          "orbit": "SAT"
+        }
+      ]
+    },
+    {
+      "match": "Racing vs Wanderers Disney+ Premium Mexico, Disney+ Premium Norte, DIRECTV Sports Uruguay, Disney+ Premium Argentina, Disney+ Premium Brazil",
+      "league": "▴",
+      "time": "12:00",
       "channels": [
         {
           "name": "Disney+ Premium Mexico",
@@ -832,9 +999,9 @@
       ]
     },
     {
-      "match": "Peñarol vs Progreso Disney+ Premium Mexico, Disney+ Premium Norte, DIRECTV Sports Uruguay, Disney+ Premium Argentina, Disney+ Premium Brazil",
+      "match": "Boston River vs Defensor Sporting Disney+ Premium Mexico, Disney+ Premium Norte, DIRECTV Sports Uruguay, Disney+ Premium Argentina, Disney+ Premium Brazil",
       "league": "▴",
-      "time": "17:30",
+      "time": "15:00",
       "channels": [
         {
           "name": "Disney+ Premium Mexico",
